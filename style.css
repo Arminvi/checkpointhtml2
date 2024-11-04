@@ -1,0 +1,82 @@
+body{
+  background-image: url('res2.jpg');
+  height: 130vh;
+  background-size: cover;
+  background-position: center;
+ }    
+
+ header{
+  text-align: center;
+  letter-spacing: .1rem;
+  color: #c0d9fc;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 0%;
+}
+
+.title {
+  color: #c0d9fc;
+  text-align: center;
+}
+
+.paragraph1 {
+  text-align: center;
+  font-size: 17px;
+  color: #c0d9fc;
+
+}
+/* Set Roboto as the font for the entire body */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Title styling */
+.title {
+  text-align: center;
+  font-size: 2em;
+  margin-top: 20px;
+}
+
+/* Navbar styling */
+.navbar a{
+  text-align: center;
+  margin-top: 15px;
+}
+
+.navbar-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.navbar-item {
+  display: inline;
+  margin-right: 15px;
+}
+
+.navbar-link {
+  text-decoration: none;
+  font-weight: lighter;
+  color: #c0d9fc;
+}
+
+/* Section heading styling */
+.section-heading {
+  font-size: 1.5em;
+  font-style: oblique;
+  color: #3e5ca3;
+  margin-top: 20px;
+  font-family: 'Times New Roman', Times, serif
+}
+
+/* Menu list styling */
+.menu-list {
+  list-style-type: none;
+  color: #c0d9fc;
+  padding-left: 20px;
+}
+
+/* Contact info styling */
+.contact-info {
+  margin-top: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #c0d9fc;
+}
